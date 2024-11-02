@@ -4,7 +4,7 @@ Execução do exercício de exploração de algumas das maneiras pelas quais o M
 
 ## 🚀 Começando
 
-Foram criadas as pastas Inputs, que contém os prompts utilizados no Microsoft Copilot e a pasta Outputs, que contém os retornos obtidos através do Microsoft Copilot. Durante a execução do exercício, surgiu um problema de geração de imagens, que foi contornado acessando diretamente a plataforma do Microsof Designer, conforme especificado nos Inputs.
+Foram criadas as pastas entradas, que contém o arquivo Inputs com os prompts utilizados no Microsoft Copilot e a pasta Saídas, que contém os retornos obtidos através do Microsoft Copilot. Durante a execução do exercício, surgiu um problema de geração de imagens, que foi contornado acessando diretamente a plataforma do Microsof Designer, conforme especificado nos Inputs.
 
 ### 📋 Pré-requisitos
 
