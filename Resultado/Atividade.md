@@ -1,6 +1,6 @@
   # 📚 Explorando o Microsoft Copilot - Criação de empresa de limpeza
 
-Através da utilização da [idéia inicial],(https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/raw/main/data/generative-ai/Business%20Idea.docx), foi criado o plano de negócios e apresentação para investidores.
+Através da utilização da idéia inicial,(https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/raw/main/data/generative-ai/Business%20Idea.docx), foi criado o plano de negócios e apresentação para investidores.
 
 
   # 📚 Plano de negócios
